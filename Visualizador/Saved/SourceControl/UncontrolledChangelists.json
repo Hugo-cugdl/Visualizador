@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub/Segundo_Parcial/Visualizador/Content/Levels/Visualizador.umap",
+				"D:/GitHub/Segundo_Parcial/Visualizador/Content/Geometry/Productos/8BitDoController/BitController_Buttons_MTL.uasset",
+				"D:/GitHub/Segundo_Parcial/Visualizador/Content/Geometry/Productos/8BitDoController/BitController_Shell_MTL.uasset",
+				"D:/GitHub/Segundo_Parcial/Visualizador/Content/Geometry/Productos/8BitDoController/8BitDo_Gamepad.uasset",
+				"D:/GitHub/Segundo_Parcial/Visualizador/Content/Geometry/Productos/8BitDoController/BitController_Shell_BaseColor.uasset",
+				"D:/GitHub/Segundo_Parcial/Visualizador/Content/Geometry/Productos/8BitDoController/BitController_Buttons_BaseColor.uasset",
+				"D:/GitHub/Segundo_Parcial/Visualizador/Content/Geometry/Productos/8BitDoController/BitController_Shell.uasset",
+				"D:/GitHub/Segundo_Parcial/Visualizador/Content/Geometry/Productos/8BitDoController/BitController_Buttons.uasset"
+			]
+		}
+	]
+}

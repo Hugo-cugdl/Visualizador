@@ -1,0 +1,9 @@
+[12792:6920:0408/235026.358:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12792:6920:0408/235026.437:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23616:11096:0408/235041.985:ERROR:frame_impl.cc(537)] frame 5-854F07C7F4F228AD9AFE85CCFCBAEDEC connection timeout
+[12792:7368:0408/235044.630:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12792:6920:0408/235248.439:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12792:6920:0408/235253.470:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12792:6920:0408/235258.769:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12792:6920:0408/235606.989:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12792:6920:0409/002702.529:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
