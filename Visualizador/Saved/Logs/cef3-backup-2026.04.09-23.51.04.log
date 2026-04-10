@@ -1,0 +1,9 @@
+[5752:23408:0409/153012.921:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5752:23408:0409/153013.007:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5752:23408:0409/153036.581:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[5752:23408:0409/153043.377:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 6-9B84698424181CCFCCEB98A452E01BCF (has_rfh=1)
+[612:12640:0409/153043.440:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7DF3622AB133BEAE5E986A2C558D278B will be ignored
+[5752:21448:0409/153044.165:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5752:23408:0409/153118.281:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[5752:23408:0409/161349.192:ERROR:device_event_log_impl.cc(196)] [16:13:49.186] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[5752:23408:0409/175104.627:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

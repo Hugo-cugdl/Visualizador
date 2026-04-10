@@ -1,0 +1,6 @@
+[8496:19340:0409/012638.988:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8496:19340:0409/012639.052:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17048:13636:0409/012655.150:ERROR:frame_impl.cc(537)] frame 5-804B9529836FB6B9D06A6B17570DF2D3 connection timeout
+[8496:19340:0409/012928.965:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8496:19340:0409/012933.978:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8496:19340:0409/014544.093:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
