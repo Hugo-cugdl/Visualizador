@@ -1,0 +1,21 @@
+[27556:25820:0410/171412.127:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27556:25820:0410/171412.226:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27556:1776:0410/171458.239:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27556:25820:0410/171459.254:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 6-47FF004C4AF6D097F199E1D78BD74B1F (has_rfh=1)
+[25244:25220:0410/171459.289:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-649B7B9E0C4ACC7957FF122C750A7E82 will be ignored
+[27556:25820:0410/171524.839:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171529.840:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171534.840:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171544.840:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171549.840:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171554.844:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171559.844:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171604.844:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171609.844:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171614.845:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171619.845:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171624.845:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171629.846:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171634.848:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/171654.851:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27556:25820:0410/174615.246:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
