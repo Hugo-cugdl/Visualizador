@@ -1,8 +1,13 @@
-[25704:2644:0410/230821.402:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[25704:2644:0410/230822.105:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[25704:2644:0410/230904.829:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[25704:2644:0410/230911.531:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[25704:28012:0410/230912.744:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[25704:2644:0410/230914.273:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 6-F5DC23680A5FDBD30DCC0FCE638FC7B0 (has_rfh=1)
-[14768:12968:0410/230914.375:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A9486E59670FE8E0A60E41B845AEFA30 will be ignored
-[25704:2644:0411/010328.405:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[1512:27664:0412/221101.316:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[1512:27664:0412/221101.402:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1512:16268:0412/221108.714:WARNING:leveldb_database.cc(141)] Unable to open D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1512:16268:0412/221108.716:WARNING:leveldb_database.cc(141)] Unable to open D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1512:16268:0412/221108.718:WARNING:leveldb_database.cc(141)] Unable to open D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1512:16268:0412/221108.719:WARNING:leveldb_database.cc(141)] Unable to open D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12788:3496:0412/221122.188:ERROR:frame_impl.cc(537)] frame 5-D4F9109752B4EBCF422B1790A5C40A66 connection timeout
+[1512:7968:0412/221122.196:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1512:7968:0412/221122.197:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1512:24572:0412/221122.246:WARNING:leveldb_database.cc(141)] Unable to open D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1512:28108:0412/221125.904:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[1512:27664:0412/221207.727:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1512:27664:0412/221252.920:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

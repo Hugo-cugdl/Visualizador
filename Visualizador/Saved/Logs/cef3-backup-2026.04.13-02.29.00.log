@@ -1,0 +1,25 @@
+[1520:23980:0412/194335.540:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[1520:23980:0412/194335.624:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1520:1776:0412/194405.120:WARNING:leveldb_database.cc(141)] Unable to open D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1520:1776:0412/194405.122:WARNING:leveldb_database.cc(141)] Unable to open D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1520:1776:0412/194405.127:WARNING:leveldb_database.cc(141)] Unable to open D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1520:1776:0412/194405.128:WARNING:leveldb_database.cc(141)] Unable to open D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1520:27136:0412/194416.484:WARNING:leveldb_database.cc(141)] Unable to open D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\GitHub\Visualizador\Visualizador\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28408:23924:0412/194416.701:ERROR:backend_impl.cc(989)] Critical error found -8
+[28408:23924:0412/194416.702:WARNING:storage_block-inl.h(138)] Failed data load.
+[28408:23924:0412/194416.702:ERROR:entry_impl.cc(1029)] No file for b2020000
+[28408:23924:0412/194416.703:WARNING:storage_block-inl.h(138)] Failed data load.
+[1520:23980:0412/194418.633:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1520:26056:0412/194418.636:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1520:26056:0412/194418.638:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15980:6500:0412/194419.320:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F6A7E965F24E43DBDD19192D51DC577E will be ignored
+[1520:28232:0412/194420.220:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[1520:23980:0412/194423.641:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1520:23980:0412/194428.641:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1520:23980:0412/194433.641:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1520:23980:0412/194438.641:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1520:23980:0412/194453.645:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1520:23980:0412/195045.398:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1520:23980:0412/195050.398:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1520:23980:0412/195055.401:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1520:23980:0412/202900.544:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
