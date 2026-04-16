@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\Visualizador\\Visualizador\\Intermediate\\Source\\Visualizador.Build.cs",
+		"D:\\GitHub\\Visualizador\\Visualizador\\Intermediate\\Source\\Visualizador.Target.cs",
+		"D:\\GitHub\\Visualizador\\Visualizador\\Intermediate\\Source\\VisualizadorClient.Target.cs",
+		"D:\\GitHub\\Visualizador\\Visualizador\\Intermediate\\Source\\VisualizadorEditor.Target.cs",
+		"D:\\GitHub\\Visualizador\\Visualizador\\Intermediate\\Source\\VisualizadorServer.Target.cs"
+	],
+	"EngineVersion": "5.7.2"
+}

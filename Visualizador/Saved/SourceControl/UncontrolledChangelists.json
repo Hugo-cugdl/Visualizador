@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/Visualizador/Visualizador/Content/Levels/Visualizador.umap",
+				"D:/GitHub/Visualizador/Visualizador/Content/BP_ColorChange_Object.uasset",
+				"D:/GitHub/Visualizador/Visualizador/Content/ColorMaterial.uasset",
 				"D:/GitHub/Segundo_Parcial/Visualizador/Content/Levels/Visualizador.umap",
 				"D:/GitHub/Segundo_Parcial/Visualizador/Content/Geometry/Productos/8BitDoController/8BitDo_Gamepad.uasset",
 				"D:/GitHub/Segundo_Parcial/Visualizador/Content/Geometry/Productos/8BitDoController/BitController_Shell.uasset",
